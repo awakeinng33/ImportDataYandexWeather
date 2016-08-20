@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportData", "ImportData\ImportData.csproj", "{5AA04C1E-F7A2-4C9A-9F14-738D7E30B9FE}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://cstfs.lab.croc.ru:8080/tfs/cs
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ImportData\\ImportData.csproj
+		SccProjectName1 = ImportData
+		SccLocalPath1 = ImportData
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AA04C1E-F7A2-4C9A-9F14-738D7E30B9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA04C1E-F7A2-4C9A-9F14-738D7E30B9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA04C1E-F7A2-4C9A-9F14-738D7E30B9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA04C1E-F7A2-4C9A-9F14-738D7E30B9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

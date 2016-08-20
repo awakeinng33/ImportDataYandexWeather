@@ -1,0 +1,2 @@
+C:\CS\ImportData\Тишкин\ImportData\ImportData\bin\Debug\ImportData.exe.config
+D:\материалы с КРОК\3 неделя\ImportData\Тишкин\ImportData\ImportData\bin\Debug\ImportData.exe.config
